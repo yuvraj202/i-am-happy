@@ -1,0 +1,84 @@
+body
+{
+   background-image: url("background.jpg");
+   background-size: cover;
+}
+
+
+video
+{
+   background: url('game_console.png');
+   background-size: cover;
+   background-position: center;
+   padding: 25px;
+   margin-top: 70%;
+}
+
+
+
+.big_image
+{
+    width: 100%;
+}   
+ 
+
+
+.heading 
+{
+    text-align: left;
+    width: 100%;
+  
+}
+  
+
+
+#start,#status
+{   
+    font-size: 22px;
+}
+
+
+
+h4 
+{
+    background-color: white;
+    line-height: 2px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+.modal-body
+{
+    width: 100%;
+}
+
+
+
+hr
+{
+    color: yellow;
+}
+
+
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+
+
+.instructions_image
+{
+    display: inline-block;
+    width:45%;
+}
+
+.crazy
+{
+    margin-top: 600px;
+}
+
+
